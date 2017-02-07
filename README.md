@@ -19,8 +19,11 @@ An openSWAN solution, using [this guide](http://walkintocloud.com/index.php/2016
 # Settings (much of this info has been copied from the above mentioned guides!)
 
 _Customer_
+
 Router Public IP: 12.12.12.12
+
 Router Private IP: 10.10.10.1
+
 CIDR: 10.10.0.0
 
 _Our Settings_
