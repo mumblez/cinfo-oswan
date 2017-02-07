@@ -66,4 +66,5 @@ In the configuration files, anything starting with *left* is us and *right* is t
 ### Notes / Refs
 http://www.briantobin.org/2013/02/20/ipsec-s2s-vpn-via-aws-openswan-and-cisco-ipsec-router
 https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk100726 (native AWS vpn)
+https://heitorlessa.com/working-with-amazon-aws-vpc-software-based-vpn-part-1-f540a70c60ab#.a8054rllt (seems ideal)
 
