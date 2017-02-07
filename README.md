@@ -63,3 +63,7 @@ Following this guide - [AWS VPN](https://aws.amazon.com/articles/547267550646606
 In the configuration files, anything starting with *left* is us and *right* is the customer!
 
 ... work in progress ...
+### Notes / Refs
+http://www.briantobin.org/2013/02/20/ipsec-s2s-vpn-via-aws-openswan-and-cisco-ipsec-router
+https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk100726 (native AWS vpn)
+
