@@ -55,7 +55,7 @@ _Our Settings_
 | 10.10.0.0/16 | 20.20.20.20 |
 | 10.10.0.0/16 | 20.20.20.21 |
 
-*Need to test this but I assume if the first route failes the second one will kick in*
+*Need to test this but I assume if the first route fails the second one will kick in*
 
 ## openSWAN setup
 
