@@ -60,3 +60,4 @@ _Our Settings_
 Following this guide - [AWS VPN](https://aws.amazon.com/articles/5472675506466066) we will replace EIP1 and VPC1 with our own details for each instance and EIP2 and VPC2 with the customer's details.
 In the configuration files, anything starting with *left* is us and *right* is the customer!
 
+... work in progress ...
