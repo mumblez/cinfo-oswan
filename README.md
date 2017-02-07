@@ -24,6 +24,7 @@ Router Private IP: 10.10.10.1
 CIDR: 10.10.0.0
 
 _Our Settings_
+
 | CIDR | Subnet | Instance Name | Private IP | Public IP (EIP) |
 | ---- | ------ | ------------- | ---------- | --------------- |
 | 20.20.0.0/16 | 20.20.20.0/24 | VPN1 | 20.20.20.20 | 5.5.5.1 |
@@ -34,6 +35,7 @@ _Our Settings_
 ## Security Groups (ICMP / Ports)
 
 | Protocol | Port | Source |
+| --- | --- | --- |
 | TCP | 50   | 5.5.5.1/32 |
 | TCP | 51   | 5.5.5.1/32 |
 | UDP | 4500 | 5.5.5.1/32 |
@@ -46,6 +48,7 @@ _Our Settings_
 ## Network ACLs
 
 | Destination | Target |
+| --- | --- |
 | 10.10.0.0/16 | 20.20.20.20 |
 | 10.10.0.0/16 | 20.20.20.21 | *Need to test this but I assume if the first route failes the second one will kick in*
 
